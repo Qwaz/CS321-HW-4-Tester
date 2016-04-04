@@ -1,0 +1,3 @@
+((lam x. x) ((lam y. y) (lam z. z)))
+((lam y. y) (lam z. z))
+(lam z. z)

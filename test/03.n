@@ -1,0 +1,2 @@
+((lam s. (lam z. (s z))) ((lam w. w) z))
+(lam z__1. (((lam w. w) z) z__1))
